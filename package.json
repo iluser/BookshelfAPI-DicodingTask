@@ -1,0 +1,16 @@
+{
+  "name": "submission",
+  "version": "1.0.0",
+  "description": "Bookshelf API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ilwan",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^21.3.2"
+  }
+}
